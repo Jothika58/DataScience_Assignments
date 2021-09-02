@@ -6,3 +6,4 @@ DT_Ensemble Bagging</br>
 Univariate_and_Multivariate_Analysis </br>
 OCR - Support Vector Machine </br>
 Basic_Statistics_Exploration
+Linear Regression with StartUp Dataset
