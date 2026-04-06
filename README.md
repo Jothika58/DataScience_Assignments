@@ -16,4 +16,3 @@ jupyter notebook
 
 ## Tech Stack
 Python, Pandas, NumPy, Matplotlib, scikit-learn
-```
