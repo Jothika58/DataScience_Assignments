@@ -1,9 +1,19 @@
-# DataScience_Assignments
+# 📊 Data Science Assignments
 
-Pima Diabetes</br>
-KNN Breast Cancer Modelling </br>
-DT_Ensemble Bagging</br>
-Univariate_and_Multivariate_Analysis </br>
-OCR - Support Vector Machine </br>
-Basic_Statistics_Exploration
-Linear Regression with StartUp Dataset
+Collection of data science assignments covering core ML and statistical concepts.
+
+## Topics Covered
+- [List the main topics/assignments]
+- Regression, Classification, Clustering
+- Data Visualization, EDA
+- Feature Engineering
+
+## How to Use
+Open individual Jupyter notebooks:
+```bash
+jupyter notebook
+```
+
+## Tech Stack
+Python, Pandas, NumPy, Matplotlib, scikit-learn
+```
